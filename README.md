@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi, just Nobody ...
 
-<!--
-**MrNobody65/MrNobody65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Aiming for a career in Computer Science field, I'm avidly diving into different topics:
+* Artificial Intelligence
+* Software Engineering
+* Blockchain
 
-Here are some ideas to get you started:
+... and so on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+### Languages
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrNobody65&layout=donut&theme=dark" />
+
+### Github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=MrNobody65&&count_private=false&show_icons=true&theme=dark&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+
+## Contact me
+
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lê-xuân-vũ-a10a91270/">
+<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://github.com/MrNobody65">
+<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/vu.lexuan.65">
+<img src="https://img.icons8.com/doodle/40/000000/facebook-new--v2.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mrnobodyy.65/">
+<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+</div>
