@@ -21,7 +21,7 @@ Aiming for a career in Computer Science field, I'm avidly diving into different 
 ## Contact me
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lê-xuân-vũ-a10a91270/">
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lexuanvu65/">
 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/vu.lexuan.65">
 <img src="https://img.icons8.com/doodle/40/000000/facebook-new--v2.png"></a>
