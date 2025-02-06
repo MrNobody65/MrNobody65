@@ -1,27 +1,15 @@
 # Hi, just Nobody ...
+I'm a student with a passion for artificial intelligence and a deep curiosity for all things tech. Currently pursuing my studies in University of Science, VNUHCM, I'm dedicated to exploring the vast world of AI—from machine learning and deep learning to innovative applications that make a real-world impact.
 
 ## About
-Aiming for a career in Computer Science field, I'm avidly diving into different topics:
-* Artificial Intelligence
-* Software Engineering
-* Blockchain
-
-... and so on.
-
-## Stats
-
-### Languages
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrNobody65&layout=donut&theme=dark" />
-
-### Github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrNobody65&&count_private=false&show_icons=true&theme=dark&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+* **AI Enthusiast**: Actively learning and experimenting with AI techniques to solve complex problems.
+* **Tech Explorer**: Fascinated by cutting-edge technologies such as microservice, blockchain, quantum computing, robotics, IoT, and so on.
+* **Collaborator**: Always on the lookout for exciting projects and opportunities to collaborate with like-minded developers and researchers.
 
 ## Contact me
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lexuanvu65/">
+<div align="center" class="icons-social" style="margin-left: 10px;">
+<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/lexuanvu65/">
 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/vu.lexuan.65">
 <img src="https://img.icons8.com/doodle/40/000000/facebook-new--v2.png"></a>
