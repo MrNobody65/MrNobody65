@@ -14,5 +14,5 @@ jobs:
       - uses: MrNobody65/profile-wordcloud@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          IGNORE_FILE_TYPES: ".csv"
-          IGNORE_REPOS: "elasticsearch-learning,pago,ElysAR"
+          IGNORE_FILE_TYPES: ""
+          IGNORE_REPOS: ""
