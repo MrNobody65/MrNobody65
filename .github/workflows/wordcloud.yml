@@ -11,7 +11,7 @@ jobs:
     name: Update Readme with WordCloud
     runs-on: ubuntu-latest
     steps:
-      - uses: Parply/profile-wordcloud@master
+      - uses: MrNobody65/profile-wordcloud@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           IGNORE_FILE_TYPES: ".csv"
