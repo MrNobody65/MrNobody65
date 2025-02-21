@@ -1,4 +1,8 @@
 # Hi, just Nobody 👋
+
+<!--START_SECTION:wordcloud-->
+<!--END_SECTION:wordcloud-->
+
 I'm a student with a passion for artificial intelligence and a deep curiosity for all things tech. Currently pursuing my studies in University of Science, VNUHCM, I'm dedicated to exploring the vast world of AI—from machine learning and deep learning to innovative applications that make a real-world impact.
 
 ## About
