@@ -15,4 +15,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           IGNORE_FILE_TYPES: ".csv"
-          IGNORE_REPOS: "pago, ElysAR"
+          IGNORE_REPOS: "elasticsearch-learning,pago,ElysAR"
